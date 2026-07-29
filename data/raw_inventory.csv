@@ -1,0 +1,11 @@
+sku_id,sku_name,category,unit_cost_usd,stock_on_hand,annual_sales_units
+SKU-1001,Leche Entera 1L,Food & Beverages,1.25,45000,120000
+SKU-1002,Atún en Agua 170g,Food & Beverages,0.85,32000,95000
+SKU-1003,Audífonos Bluetooth,Electronics,25.00,450,1800
+SKU-1004,Jabón Líquido 500ml,Personal Care,2.10,18000,40000
+SKU-1005,Cereal Integral 500g,Food & Beverages,3.50,28000,35000
+SKU-1006,Sartén Antiadherente 24cm,Home & Kitchen,12.00,1200,3600
+SKU-1007,Café Molido 250g,Food & Beverages,4.20,15000,50000
+SKU-1008,Cargador Carga Rápida,Electronics,8.50,200,6000
+SKU-1009,Detergente En Polvo 1kg,Home & Kitchen,2.80,9500,22000
+SKU-1010,Galletas de Avena,Food & Beverages,1.10,38000,28000

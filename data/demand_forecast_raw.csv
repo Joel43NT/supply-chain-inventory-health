@@ -1,0 +1,13 @@
+month,sku_id,category,forecasted_units,actual_sales_units,unit_price_usd
+2026-01,SKU-2001,Electronics,5000,3200,120.00
+2026-01,SKU-2002,Food & Beverages,18000,17500,15.00
+2026-01,SKU-2003,Personal Care,8500,9200,8.50
+2026-02,SKU-2001,Electronics,4800,3100,120.00
+2026-02,SKU-2002,Food & Beverages,19000,16800,15.00
+2026-02,SKU-2003,Personal Care,9000,8900,8.50
+2026-03,SKU-2001,Electronics,5200,3400,120.00
+2026-03,SKU-2002,Food & Beverages,21000,18200,15.00
+2026-03,SKU-2003,Personal Care,9500,10200,8.50
+2026-04,SKU-2001,Electronics,5500,3000,120.00
+2026-04,SKU-2002,Food & Beverages,22000,17900,15.00
+2026-04,SKU-2003,Personal Care,10000,10800,8.50
