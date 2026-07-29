@@ -36,6 +36,8 @@ A 30-60-90 day remediation strategy was designed to release +$40M USD in cash fl
 | **Inventory Turnover** | 3.68 turns/yr | 6.00 turns/yr | +63% Efficiency |
 | **Average Days of Supply (DSI)** | 99.1 days | 60.0 days | -39.1 Days Reduction |
 
+### 📈 Visual Overview: Days of Supply Distribution
+![DSI Distribution](assets/dsi_distribution.png)
 ---
 🎯 Module 2: Demand Planning & Forecast Accuracy
 Executive Summary
@@ -50,6 +52,9 @@ Identifies systematic over-forecasting (risk of excess stock) or under-forecasti
 
 Forecast Accuracy (%):
 Measures total model accuracy (100% - MAPE).
+
+### 📈 Visual Overview: Forecast vs. Actual Sales
+![Forecast vs Actual Sales](assets/forecast_vs_actual.png)
 
 💻 Tech Stack & Execution Guide
 SQL: PostgreSQL / ANSI SQL for data aggregation, DSI calculation, and accuracy window queries (sql/).
