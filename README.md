@@ -55,6 +55,7 @@ Measures total model accuracy (100% - MAPE).
 SQL: PostgreSQL / ANSI SQL for data aggregation, DSI calculation, and accuracy window queries (sql/).
 
 Python: pandas, numpy, matplotlib, seaborn for statistical modeling and visualization (notebooks/).
+
 How to Run
 Database Queries: Execute scripts in sql/01_inventory_analysis.sql and sql/02_forecast_accuracy.sql directly on your database environment.
 
